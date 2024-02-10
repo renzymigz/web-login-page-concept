@@ -1,2 +1,2 @@
 # web-login-page-concept
-I made a web login page concept practice based from my school's module website using only HTML and CSS; it doesn't have a backend code yet.
+I created a web login page concept for practice, based on  my school's module website, using only HTML and CSS. At this moment, it doesn't have a backend code yet.
